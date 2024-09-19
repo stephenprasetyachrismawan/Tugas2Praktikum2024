@@ -21,6 +21,8 @@ Shift Baru: F
 ## Screenshot
 
 [Screenshot hasil](https://drive.google.com/drive/folders/1XuyM-NwqrclsRT04qmpEWMLPP3_iojl-?usp=drive_link)
+![Screenshot_1726757090](https://github.com/user-attachments/assets/340c578c-ccc1-4550-ad1a-87d69daadc20) ![Screenshot_1726757125](https://github.com/user-attachments/assets/576eaec6-c141-402b-995d-e1f4c6b214e4) ![Screenshot_1726757131](https://github.com/user-attachments/assets/50e8c212-2a32-4db2-89ba-e629ce5d0922)
+
 
 ## Proses passing data menuju tampilan
 
