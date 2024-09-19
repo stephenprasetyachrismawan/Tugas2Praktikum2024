@@ -20,10 +20,7 @@ Shift Baru: F
 
 ## Screenshot
 
-![Lampiran Form](https://drive.google.com/file/d/1FTFSO7TxrYesHy5iRxNuAhZTWzyYu6hP/view?usp=drive_link)
-<img src="https://drive.google.com/file/d/1FTFSO7TxrYesHy5iRxNuAhZTWzyYu6hP/view?usp=drive_link">
-![Lampiran Form Terisi](https://drive.google.com/file/d/1_SkledOwOY4V2tkYdVOBBjK7HzHWQw_k/view?usp=drive_link)
-![Lampiran Hasil](https://drive.google.com/file/d/1QvQ8DFjcm1ZlQECDcQg7kw8nr-pc8zGY/view?usp=drive_link)
+[Screenshot hasil](https://drive.google.com/drive/folders/1XuyM-NwqrclsRT04qmpEWMLPP3_iojl-?usp=drive_link)
 
 ## Proses passing data menuju tampilan
 
