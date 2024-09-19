@@ -27,11 +27,11 @@ class FormDataState extends State<FormData> {
           child: Column(
             children: [
               _textboxNama(),
-              const SizedBox(height: 10), // Add some spacing between fields
+              const SizedBox(height: 10),
               _textboxNIM(),
-              const SizedBox(height: 10), // Add some spacing between fields
+              const SizedBox(height: 10),
               _textboxTahun(),
-              const SizedBox(height: 20), // Add some spacing before the button
+              const SizedBox(height: 20),
               _tombolSimpan()
             ],
           ),
@@ -98,7 +98,7 @@ class FormDataState extends State<FormData> {
       child: const Text(
         'Simpan',
         style: TextStyle(
-          fontWeight: FontWeight.bold, // Make button text bold
+          fontWeight: FontWeight.bold, // text bold
         ),
       ),
     );
